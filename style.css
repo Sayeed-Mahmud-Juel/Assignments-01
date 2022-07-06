@@ -1,5 +1,5 @@
 .section-1 {
-    background-image: url(./images/donation9.jpg);
+    background-image: url(./images/donation1.jpg);
     background-repeat: no-repeat;
     color: white;
     text-align: center;
@@ -8,5 +8,318 @@
     padding-top: 50px;
 }
 .div-2 {
-    margin-top: 50px;
+    margin-top: 70px;
 }
+.link-1 {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(black, orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 900;
+}
+
+.section-2 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+.taka1 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+
+}
+
+.taka2 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+}
+
+.taka3 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+}
+
+.taka4 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+}
+
+.taka5 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+
+}
+
+.div-4 {
+    justify-content: center;
+    display: flex;
+    margin-top: 70px;
+    padding-bottom: 10px;
+}
+
+.design {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: rgb(241, 229, 229);
+    margin-right: 30px;
+    border: 1px solid rgb(206, 124, 124);
+    font-weight: 700;
+
+}
+
+.div-5 {
+    padding-top: 50px;
+}
+
+.input-class {
+    text-align: center;
+    width: 50%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 35px;
+}
+
+.div-6 {
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+
+.div-7 {
+    margin-bottom: 80px;
+}
+
+.how-to-donate {
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.donate-now {
+    text-decoration: none;
+    background-image: linear-gradient(pink, red);
+    color: white;
+    padding: 15px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.section-3 {
+    text-align: center;
+    margin-bottom: 90px;
+
+}
+
+.Donation {
+    display: flex;
+}
+
+.food-donate {
+    text-align: center;
+}
+
+.div-7-images img {
+    text-align: left;
+}
+
+.food-family {
+    margin-right: 30px;
+    background-color: rgb(218, 199, 192);
+    color: black;
+    width: 40%;
+    margin-right: 30px;
+    height: 350px;
+    padding-top: 80px;
+}
+
+.shelter-family {
+    margin-right: 30px;
+    background-color: rgb(182, 211, 211);
+    color: black;
+    width: 40%;
+    margin-right: 30px;
+    height: 350px;
+    padding-top: 80px;
+
+}
+
+.education-child {
+    margin-right: 30px;
+    background-color: rgb(213, 199, 226);
+    color: black;
+    width: 40%;
+    margin-right: 30px;
+    height: 350px;
+    padding-top: 80px;
+}
+
+.food-family1 {
+    text-align: left;
+    padding-left: 60px;
+}
+
+.images1 {
+    text-align: left;
+}
+
+.depend-donation {
+    display: flex;
+    justify-content: center;
+}
+
+.donation-img {
+    height: 350px;
+    width: 350px;
+
+}
+
+.donation-part {
+    padding-right: 80px;
+}
+
+.contribute {
+    text-decoration: none;
+}
+
+.contribute {
+    background-color: rgb(247, 75, 75);
+    padding: 10px 15px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.section4 {
+    margin-bottom: 70px;
+}
+
+.survive {
+    display: flex;
+    justify-content: center;
+}
+
+.survive-image {
+    height: 350px;
+    width: 350px;
+
+
+}
+
+.survive1 {
+    padding-left: 150px;
+}
+
+.contribute2 {
+    text-decoration: none;
+    background-color: rgb(247, 75, 75);
+    padding: 10px 15px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.section-5 {
+    margin-bottom: 70px;
+}
+
+.input-class1 {
+    text-align: left;
+    height: 30px;
+    width: 20%;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    padding-left: 20px;
+}
+
+.input-class2 {
+    height: 36px;
+    margin-left: -5px;
+    width: 120px;
+    background-image: linear-gradient(blue, red);
+    color: white;
+    font-weight: 700;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.updates {
+    text-align: center;
+    padding-top: 40px;
+    padding: 100px;
+}
+
+.updates1 {
+    padding-top: 100px;
+}
+
+.updates2 {
+    padding-top: 50px;
+    background-color: olivedrab;
+    height: 90px;
+
+
+
+}
+
+.section-6 {
+    margin-bottom: 60px;
+}
+
+.section-7 {
+    background-color: rgb(34, 32, 32);
+    text-align: center;
+    color: white;
+
+}
+
+.header {
+    color: rgb(179, 114, 114);
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+.paragraph {
+    font-size: 15px;
+}
+
+.footer {
+    padding-top: 4px;
+    padding-bottom: 5px
