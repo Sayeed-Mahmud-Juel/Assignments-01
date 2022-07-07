@@ -19,10 +19,11 @@ h1,h2{
 .link-1 {
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(black, orange);
-    padding: 10px 40px;
+    background-color: tomato;
+    padding: 15px 50px;
     border-radius: 10px;
     font-weight: 900;
+    font-size: 20px;
 }
 
 .section-2 {
